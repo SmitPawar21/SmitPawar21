@@ -56,17 +56,6 @@ const developer = {
 <tr>
 <td align="center" width="50%">
 
-### Professional Experience
-```yaml
-Company: Zidio Development Company
-Role: Java Full Stack Intern
-Focus: Enterprise Web Applications
-Stack: Java + Spring Boot + React
-```
-
-</td>
-<td align="center" width="50%">
-
 ### Academic Pursuit
 ```yaml
 Degree: Computer Engineering
