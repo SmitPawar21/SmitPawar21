@@ -27,7 +27,6 @@ const developer = {
     name: "Smit Pawar",
     role: "Full-Stack Developer",
     education: "Computer Engineering - Third Year",
-    currentWork: "Java Full Stack Intern at Zidio Development Company",
     location: "India",
     languages: ["Java", "JavaScript", "C", "C++", "Python"],
     askMeAbout: ["Web Dev", "Backend", "Database Design", "System Architecture"],
