@@ -39,8 +39,8 @@
 
 <table align="center" width="90%">
   <tr>
-    <td width="20%" align="center" valign="middle">
-      <h1 style="font-size: 4em;">🚀</h1>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/SmitPawar21/SmitPawar21/rocket.jpeg" alt="Rocket" width="100%" style="border-radius: 10px; max-width: 200px;"/>
     </td>
     <td width="80%">
       <br/>
