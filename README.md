@@ -92,7 +92,7 @@ Real-time messaging platform with end-to-end AES encryption and low-latency comm
 
 ## Tech Constellation
 
-<img align="center" src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs,postgres,mongodb,redis,kafka,docker,aws,git,cpp,python,js,jest,jenkins,tailwind,mysql,hibernate&theme=dark" alt="Skills"/>
+<img align="center" src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs,postgres,mongodb,redis,kafka,docker,aws,git,cpp,python,js,jest,jenkins,tailwind,mysql,css,hibernate,figma,postman,linux,threejs,vercel,eclipse,html,electron&theme=dark" alt="Skills"/>
 
 </div>
 
