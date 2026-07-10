@@ -16,44 +16,6 @@
 
 <div align="center">
 
-## Mission Log
-
-</div>
-
-<table align="center" width="90%">
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <!-- Fixed rocket.jpeg using raw.githubusercontent.com -->
-      <img src="https://raw.githubusercontent.com/SmitPawar21/SmitPawar21/main/rocket.jpeg" alt="Rocket" width="100%" style="border-radius: 10px; max-width: 200px;"/>
-    </td>
-    <td width="80%">
-      <br/>
-      <ul>
-        <li><strong>[Ch.1]</strong> First "Hello World" in C++. Hooked instantly.</li>
-        <br/>
-        <li><strong>[Ch.2]</strong> HTML, CSS, JS - built tic-tac-toe, felt like a genius.</li>
-        <br/>
-        <li><strong>[Ch.3]</strong> React clicked. Became Frontend Mentor @ Tech Club.</li>
-        <br/>
-        <li><strong>[Ch.4]</strong> MERN stack mastered. Shipped full-stack applications & dashboards.</li>
-        <br/>
-        <li><strong>[Ch.5]</strong> Shifted focus toward high-performance backend architecture and distributed systems.</li>
-        <br/>
-        <li><strong>[Ch.6]</strong> Advanced Java - built relational databases and trading engines from scratch.</li>
-        <br/>
-        <li><strong>[Ch.7]</strong> Now: Java + TypeScript + Spring Boot. Pupil @ Codeforces · 300+ LeetCode solved.</li>
-        <br/>
-        <li><strong>[Ch.8]</strong> Currently exploring LLMs, RAG, and scalable cloud deployments via AWS.</li>
-      </ul>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
 ## Projects
 
 <table width="100%">
@@ -130,7 +92,7 @@ Real-time messaging platform with end-to-end AES encryption and low-latency comm
 
 ## Tech Constellation
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,postgres,mongodb,redis,kafka,docker,aws,git,cpp,python&theme=dark" alt="Skills"/>
+<img align="center" src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs,postgres,mongodb,redis,kafka,docker,aws,git,cpp,python,js,jest,jenkins,tailwind,mysql,hibernate&theme=dark" alt="Skills"/>
 
 </div>
 
