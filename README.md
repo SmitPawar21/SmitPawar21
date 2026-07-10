@@ -1,80 +1,125 @@
 <div align="center">
 
-# Smit Pawar
-### Software Developer
+<h1 align="center" style="font-family: 'Dancing Script', cursive; font-size: 3em;">Smit Pawar</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=Software+Developer;Java+%2B+TypeScript+%2B+Spring+Boot;Building+LLM+%2F+RAG+%2F+Agentic+Systems" alt="Typing SVG"/>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/smit-pawar-b38b97299">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pawar.smit2108@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0d1117" alt="Gmail"/>
+  </a>
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF&labelColor=0d1117" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF&labelColor=0d1117" alt="LeetCode"/>
+  </a>
+</p>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
-
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution graph"/>
 </div>
 
 <br/>
 
-## My Journey
+<div align="center">
 
-> **Ch.1** — First `Hello World` in C++. Hooked instantly.
-> 
-> **Ch.2** — HTML, CSS, JS. Built tic-tac-toe, thought I was a genius.
-> 
-> **Ch.3** — React clicked. Became Frontend Mentor at college's Tech Club.
-> 
-> **Ch.4** — MERN + LLM calling. Shipped my first real full-stack apps.
-> 
-> **Ch.5** — Freelanced these skills into client projects.
-> 
-> **Ch.6** — Pulled back toward Java — Spring Boot, advanced Java.
-> 
-> **Ch.7** — Now: Java + TypeScript + Spring Boot. Pupil @ Codeforces. 300+ LeetCode solved.
-> 
-> **Ch.8** — Currently deep in LLMs, RAG, and agentic workflows.
+## 🛰️ Mission Log
+
+</div>
+
+<table align="center" width="90%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <h1 style="font-size: 4em;">🚀</h1>
+    </td>
+    <td width="80%">
+      <br/>
+      <ul>
+        <li><strong>[Ch.1]</strong> First "Hello World" in C++. Hooked instantly.</li>
+        <br/>
+        <li><strong>[Ch.2]</strong> HTML, CSS, JS — built tic-tac-toe, felt like a genius.</li>
+        <br/>
+        <li><strong>[Ch.3]</strong> React clicked. Became Frontend Mentor @ college Tech Club.</li>
+        <br/>
+        <li><strong>[Ch.4]</strong> MERN + LLM calling. Shipped first real full-stack apps.</li>
+        <br/>
+        <li><strong>[Ch.5]</strong> Freelanced these skills into client projects.</li>
+        <br/>
+        <li><strong>[Ch.6]</strong> Pulled back toward Java — Spring Boot, advanced Java.</li>
+        <br/>
+        <li><strong>[Ch.7]</strong> Now: Java + TypeScript + Spring Boot. Pupil @ Codeforces · 300+ LeetCode solved.</li>
+        <br/>
+        <li><strong>[Ch.8]</strong> Currently deep in LLMs, RAG, and agentic workflows.</li>
+      </ul>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## Projects
+<div align="center">
 
-<table>
+## 🚀 Launch Sequence — Projects
+
+</div>
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Project One
+<h3>🪐 Project One</h3>
+
 Short one-line description of the problem this solves.
 
-**Stack:** Java · Spring Boot · PostgreSQL
-[Live Demo](#) · [Source](#)
+`Java` `Spring Boot` `PostgreSQL`
+
+<a href="#">Live Demo</a> · <a href="#">Source</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Project Two
+<h3>☄️ Project Two</h3>
+
 Short one-line description of the problem this solves.
 
-**Stack:** React · Node.js · MongoDB
-[Live Demo](#) · [Source](#)
+`React` `Node.js` `MongoDB`
+
+<a href="#">Live Demo</a> · <a href="#">Source</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Project Three
+<h3>🤖 Project Three</h3>
+
 Short one-line description of the problem this solves.
 
-**Stack:** TypeScript · LLM/RAG · Spring Boot
-[Live Demo](#) · [Source](#)
+`TypeScript` `LLM/RAG` `Spring Boot`
+
+<a href="#">Live Demo</a> · <a href="#">Source</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛠️ Project Four
+<h3>🛸 Project Four</h3>
+
 Short one-line description of the problem this solves.
 
-**Stack:** Next.js · Express · MySQL
-[Live Demo](#) · [Source](#)
+`Next.js` `Express` `MySQL`
+
+<a href="#">Live Demo</a> · <a href="#">Source</a>
 
 </td>
 </tr>
@@ -82,65 +127,51 @@ Short one-line description of the problem this solves.
 
 <br/>
 
-## Stack
-
 <div align="center">
 
-<svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:800px">
-  <rect x="0" y="0" width="800" height="260" rx="12" fill="#0d1117"/>
+## 🌌 Tech Constellation
 
-  <!-- column headers -->
-  <text x="130" y="35" fill="#58a6ff" font-family="monospace" font-size="15" font-weight="bold" text-anchor="middle">FRONTEND</text>
-  <text x="400" y="35" fill="#79c0ff" font-family="monospace" font-size="15" font-weight="bold" text-anchor="middle">BACKEND</text>
-  <text x="670" y="35" fill="#a5d6ff" font-family="monospace" font-size="15" font-weight="bold" text-anchor="middle">DATA</text>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,java,spring,nodejs,express,postgres,mongodb,mysql,git,docker&theme=dark" alt="Skills"/>
 
-  <!-- frontend box -->
-  <rect x="40" y="55" width="180" height="150" rx="8" fill="#161b22" stroke="#30363d"/>
-  <text x="130" y="85" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">React.js</text>
-  <text x="130" y="115" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">Next.js</text>
-  <text x="130" y="145" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">TypeScript</text>
-  <text x="130" y="175" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">Tailwind CSS</text>
+<br/><br/>
 
-  <!-- backend box -->
-  <rect x="310" y="55" width="180" height="150" rx="8" fill="#161b22" stroke="#30363d"/>
-  <text x="400" y="85" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">Spring Boot</text>
-  <text x="400" y="115" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">Node.js</text>
-  <text x="400" y="145" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">Express.js</text>
-  <text x="400" y="175" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">REST · LLM APIs</text>
-
-  <!-- database box -->
-  <rect x="580" y="55" width="180" height="150" rx="8" fill="#161b22" stroke="#30363d"/>
-  <text x="670" y="85" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">PostgreSQL</text>
-  <text x="670" y="115" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">MongoDB</text>
-  <text x="670" y="145" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">MySQL</text>
-  <text x="670" y="175" fill="#c9d1d9" font-family="monospace" font-size="13" text-anchor="middle">H2</text>
-
-  <!-- arrows -->
-  <line x1="220" y1="130" x2="305" y2="130" stroke="#58a6ff" stroke-width="2" marker-end="url(#arrow)"/>
-  <line x1="490" y1="130" x2="575" y2="130" stroke="#79c0ff" stroke-width="2" marker-end="url(#arrow)"/>
-
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#58a6ff"/>
-    </marker>
-  </defs>
-
-  <text x="400" y="235" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="middle">pupil @ codeforces · 300+ leetcode · java / typescript primary</text>
-</svg>
+<img src="https://img.shields.io/badge/Pupil-Codeforces-58A6FF?style=flat-square&logo=codeforces&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/300%2B%20Solved-LeetCode-58A6FF?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-LLM%20%7C%20RAG%20%7C%20Agents-58A6FF?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-## Off the Clock
+<div align="center">
 
-I once refactored a group project's entire backend the night before submission — nobody asked me to, I just couldn't hand in code that ugly.
+## 📡 Signal Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SmitPawar21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitPawar21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Langs" height="165"/>
 
 <br/>
 
-## Connect
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SmitPawar21&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=79c0ff&currStreakLabel=58A6FF" alt="Streak Stats"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/smit-pawar-b38b97299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pawar.smit2108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🌠 Off the Clock
+
+</div>
+
+<blockquote align="center">
+I once refactored a group project's entire backend the night before submission — nobody asked me to, I just couldn't hand in code that ugly.
+</blockquote>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090a0f,50:1b2735,100:0d1117&height=120&section=footer"/>
+
+<div align="center">
+<sub>Thanks for visiting my orbit ✨ — drop a ⭐ if you liked what you saw</sub>
+</div>
