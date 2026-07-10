@@ -1,14 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="./galaxyBG.jpg" width="100%" height="180" alt="Galaxy Banner"/>
+  <img src="./Smit Pawar.png" width="100%" height="100%" alt="Banner"/>
 </p>
 
-<div style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=55&duration=1&pause=10000&color=FFFFFF&center=true&vCenter=true&width=650&height=80&lines=Smit+Pawar" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=1&pause=100000&color=8BE9FD&center=true&vCenter=true&width=700&lines=Software+Developer+from+India" />
-</div>
 </div>
 
 <br/>
